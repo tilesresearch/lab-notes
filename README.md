@@ -16,8 +16,10 @@ Frontier research on human-centered AI and efficient computing systems spans the
 ## Efficient ML
 
 1. Jittor: a novel deep learning framework with meta-operators and unified graph execution. [Link](https://www.semanticscholar.org/paper/Jittor%3A-a-novel-deep-learning-framework-with-and-Hu-Liang/7b760f0468a520bc25a813b3f29664a92beb200a)
-2. LLM in a flash: Efficient Large Language Model Inference with Limited Memory. [Link](https://arxiv.org/abs/2312.11514)
-3. Apple Intelligence Foundation Language Models. [Link](https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models)
+2. Efficient Memory Management for Deep Neural Net Inference. [Link](https://arxiv.org/abs/2001.03288)
+3. Relay: A High-Level Compiler for Deep Learning. [Link](https://arxiv.org/abs/1904.08368)
+4. LLM in a flash: Efficient Large Language Model Inference with Limited Memory. [Link](https://arxiv.org/abs/2312.11514)
+5. Apple Intelligence Foundation Language Models. [Link](https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models)
 
 
 ## Neurosymbolic AI:
