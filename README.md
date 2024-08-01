@@ -2,7 +2,7 @@
 
 Frontier research on human-centered AI and efficient computing systems spans the following domains:
 
-- Human-centered computing: Interaction design theory, concepts, and paradigms in the context of praxisware, which refers to complex, feature-rich software that is intensively used over long periods, often in professional settings, and requires significant learning investment to master.
+- Human-centered computing: Interaction design theory, concepts, and paradigms in the context of end-user programming and praxisware, which refers to complex, feature-rich software that is intensively used over long periods, often in professional settings, and requires significant learning investment to master.
 - Efficient ML: Making models and toolings for fast on-device inference and training systems such as with LoRA adapters, with a particular focus on action models with multimodal understanding
 - Neurosymbolic AI: Combining neural networks with symbolic reasoning engines to enable more reliable, interpretable, and trustworthy AI systems
 - Virtual OS: Shifting OS responsibilities, such as resource management, into the compiler to achieve hardware independence
